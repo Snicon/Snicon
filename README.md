@@ -11,9 +11,8 @@ I've been developing since before VS Code was the main choice of code editors (I
 * 🖥️  See my portfolio at [Snicon.rip](http://snicon.rip)
 * ✉️  You can contact me at [sixten@snicon.rip](mailto:sixten@snicon.rip)
 * 🚀  I'm currently working on [StudiesDB](http://studiesdb.winterzone.se)
-* 🧠  I'm learning JavaScript (front-end + back-end). Also studying introductions of C# but honestly prefer Java.
+* 🧠  I'm studying Java at LTU. I'll studying linux & network administration, databases, C# and more Java next term.
 * 🤝  I'm open to collaborating on anything web development.
-* ⚡  My learning plan is as follows: JS -> React + Express (+ mb Nest) | Java -> Spring boot (connect to react) | JS -> TS + Angular (Connect with Spring boot)
 
 <a href="https://www.github.com/Snicon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Snicon?logo=github&style=for-the-badge&color=10b981&labelColor=581c87" /></a>
