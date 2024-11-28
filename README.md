@@ -10,7 +10,7 @@ I've been developing since before VS Code was the main choice of code editors (I
 * 🌍  I'm based in Norrköping, Sweden.
 * 🖥️  See my portfolio at [Snicon.rip](http://snicon.rip)
 * ✉️  You can contact me at [sixten@snicon.rip](mailto:sixten@snicon.rip)
-* 🚀  I'm currently working on [StudiesDB](http://studiesdb.winterzone.se)
+* 🚀  I'm currently working on a bunch of design and web dev projects alongside my studies.
 * 🧠  I'm studying Java at LTU. I'll studying linux & network administration, databases, C# and more Java next term.
 * 🤝  I'm open to collaborating on anything web development.
 
