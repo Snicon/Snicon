@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student, web developer and co-founder
 -------------------------------------
 
-I've been developing since before VS Code was the main choice of code editors (I started programming when I was around 10 years old). My first language of choice was Java in order to make Minecraft plugins, but, later on I moved on to HTML, CSS, and , PHP among other languages. Today I make all sorts of web application in Laravel for my company, WinterZone AB.
+I've been developing since before VS Code was the main choice of code editors (I started programming when I was around 10 years old). My first language of choice was Java in order to make Minecraft plugins, but, later on I moved on to HTML, CSS, and, PHP among other languages. Today I make all sorts of web application in Laravel for my company, WinterZone AB.
 
 * 🌍  I'm based in Norrköping, Sweden
 * 🖥️  See my portfolio at [Portfolio](http://snicon.rip)
