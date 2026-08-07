@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/snicon?logo=github&style=for-the-ba
 
 <a href="http://www.github.com/snicon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=snicon&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![Top Languages](https://ghstats.dev/api/langs?username=Snicon&theme=catppuccin&max_langs=6&layout=horizontal_list)
+![Top Languages](https://ghstats.dev/api/langs?username=Snicon&theme=catppuccin&max_langs=8&layout=horizontal_list)
 
 ### Support Me
 
